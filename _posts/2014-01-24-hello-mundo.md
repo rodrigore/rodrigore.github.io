@@ -10,7 +10,7 @@ Lo que me motivo nuevamente a comenzar el Blog es que esta semana he creado, jun
 
 A modo de explicacion de el titulo de mi primer post, el cual es una mezcla entre ingles y español, es que espero escribir ciertos post en ingles y otros en español (como tambien combinar en un mismo post los idiomas), debido a que uno de mis objetivos es practicar mis habilidades de *writing*, difundir conocimiento en mi lengua española, ya que practicamente todo lo nuevo, *fancy* y *hot* se genera en ingles.
 
-Seguramente mis post tendran muchos *typos*, errores de gramatica tanto en español como en ingles (como es el post actual que no tiene nada acentuado ya que soy un *lazy typist* que tiene configurado el idioma ingles por defecto), pero *Who cares?*, espero que los visitantes que ingresen a mi humild blog, encuentren algo util ya sea programador, diseñador o el mismo *crawler*(*bot*) de Google, como tambien espero mejorar mis *writing skill* lo cual son los factores mas importante para mi para empezar este blog.
+Seguramente mis post tendran muchos *typos*, errores de gramatica tanto en español como en ingles (como es el post actual que no tiene nada acentuado ya que soy un *lazy typist* que tiene configurado el idioma ingles por defecto), pero *Who cares?*, espero que los visitantes que ingresen a mi humilde blog, encuentren algo util ya sea programador, diseñador o el mismo *crawler*(*bot*) de Google, como tambien espero mejorar mis *writing skill* lo cual son los factores mas importante para empezar este blog
 
 Todo el contenido estara disponible en mi [repo](https://github.com/rodrigore/rodrigore.github.io), el cual se encuentra hosteado en Github y *pichicateado* por *jekyl*.
 
