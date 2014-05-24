@@ -13,21 +13,23 @@
 html, body { height: 100%; }
 
 body {
+  color: #505050;
   background-color: #FFF;
-  font: 13.34px Helvetica, Arial, sans-serif;
+  font: 18px "Molengo", "Georgia", "Times New Roman", serif;
   font-size: small;
   text-align: center;
 }
 
 h1, h2, h3, h4, h5, h6 {
+  color: #202020;
   font-size: 100%; }
 
 h1 { margin-bottom: 1em; }
 p { margin: 1em 0; }
 
-a         { color: #00a; }
-a:hover   { color: #000; }
-a:visited { color: #a0a; }
+a         { color: #6a9fb5; }
+a:hover   { color: #f4bf75; }
+a:visited { color: #aa759f; }
 
 table {
   font-size: inherit;
@@ -61,9 +63,10 @@ ul.posts span {
 /*****************************************************************************/
 
 .site {
-  font-size: 115%;
+  font-size: 155%;
   text-align: justify;
-  width: 42em;
+  width: 90%;
+  max-width: 33em;
   margin: 3em auto 2em;
   line-height: 1.5em;
 }
@@ -79,11 +82,11 @@ ul.posts span {
 }
 
 .site .header h1.title a {
-  color: #a00;
+  color: #ac4142;
 }
 
 .site .header h1.title a:hover {
-  color: #000;
+  color: #d28445;
 }
 
 .site .header a.extra {
@@ -92,7 +95,7 @@ ul.posts span {
 }
 
 .site .header a.extra:hover {
-  color: #000;
+  color: #d28445;
 }
 
 .site .meta {
@@ -132,6 +135,12 @@ ul.posts span {
 /*
 /*****************************************************************************/
 
+#post h2 {
+  font-size: 175%;
+  margin: 0.7em 0 0.5em 0;
+  line-height: 1em;
+}
+
 /* standard */
 #post pre {
   border: 1px solid #ddd;
@@ -163,3 +172,4 @@ ul.posts span {
 #post pre.terminal code {
   background-color: #333;
 }
+
